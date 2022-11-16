@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "njakYsxkM+uIJTxVGivCVuQLXaFuPXlN3QP8lLfZIKYxL0x7IRmtkvqKQe4U/pisRCumq8TizCu9zpbAGDgGaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mabla\\Documents\\Spinning Donut\\Spinning Donut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mabla\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\mabla\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\mabla\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\mabla\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\mabla\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\mabla\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
